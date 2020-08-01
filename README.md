@@ -38,6 +38,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Electron/Vue.js Desktop App Development Timelapse | Part 1 | JSON Inspect Tool](https://www.youtube.com/watch?v=vQhnMQ73H-8)
 <!-- YOUTUBE:END -->
 
 ---
