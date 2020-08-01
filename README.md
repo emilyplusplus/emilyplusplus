@@ -44,6 +44,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Coding Problem #39 – Duration Format [NodeJS]](https://emilyplusplus.wordpress.com/2020/05/19/daily-coding-problem-39-duration-format-nodejs/)
+- [Daily Coding Problem #38 – Permutations [NodeJS]](https://emilyplusplus.wordpress.com/2020/05/18/daily-coding-problem-38-permutations-nodejs/)
+- [Daily Coding Problem #37 – Squared Divisors [Node.js]](https://emilyplusplus.wordpress.com/2020/05/15/daily-coding-problem-37-squared-divisors-node-js/)
+- [Daily Coding Problem #36 – Mumble String Manipulation [Node.js]](https://emilyplusplus.wordpress.com/2020/05/13/daily-coding-problem-36-mumble-string-manipulation-node-js/)
+- [Daily Coding Problem #35 – Calculate Trailing Zeros [Node.js]](https://emilyplusplus.wordpress.com/2020/05/04/daily-coding-problem-35-calculate-trailing-zeros-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
