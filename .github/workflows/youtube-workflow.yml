@@ -1,0 +1,17 @@
+
+name: Latest YouTube videos workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube-videos:
+    name: Update this repo's README with latest YouTube videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "http://youtube.com/feeds/videos.xml?channel_id=UC4xD0xBmX4p62IT1TVrZq8w"
