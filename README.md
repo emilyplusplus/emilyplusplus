@@ -53,7 +53,11 @@
 
 ---
 
-<img align="left" alt="Emily Carlsens' Github Stats" src="https://github-readme-stats.vercel.app/api?username=emilyplusplus&show_icons=true&hide_border=true" />
+<img align="left" alt="Emily Carlsens' Github Stats" src="https://github-readme-stats.vercel.app/api?username=emilyplusplus&count_private=true&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyplusplus)](https://github.com/emilyplusplus)
+
+[![JSON-Inpsect-Card](https://github-readme-stats.vercel.app/api/pin/?username=json-inspect&repo=json-inspect)](https://github.com/json-inspect/json-inspect)
 
 [website]: https://emilycarlsen.com
 [twitter]: https://twitter.com/emilyplusplus
