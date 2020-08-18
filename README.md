@@ -35,13 +35,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Electron/Vue.js Desktop App Development Timelapse | Part 1 | JSON Inspect Tool](https://www.youtube.com/watch?v=vQhnMQ73H-8)
-<!-- YOUTUBE:END -->
-
----
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Daily Coding Problem #39 – Duration Format [NodeJS]](https://emilyplusplus.wordpress.com/2020/05/19/daily-coding-problem-39-duration-format-nodejs/)
